@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.show {
+   top : 0;
+}
+
+#hero {
+   background-image: url('../public/img/hero1.JPG');
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
